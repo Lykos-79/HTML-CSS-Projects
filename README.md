@@ -36,6 +36,10 @@ Below is a list of projects included in this repository:
    *Description:* A tribute page dedicated to a famous person or place, showcasing HTML structure and basic styling.  
    *Techniques Used:* Basic HTML, inline CSS.
 
+5. **Survey Form**  
+   *Description:* A survey form designed to collect user feedback with various input types and a submit button.  
+   *Techniques Used:* HTML forms, CSS styling, responsive design.
+
 ## Getting Started
 
 To view each project locally:
@@ -43,3 +47,16 @@ To view each project locally:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+2. Navigate to a project folder and open the index.html file in your web browser:
+  bash
+  Copy code
+  cd project-folder
+  open index.html
+  Each project is self-contained in its own folder, so feel free to explore and modify the code!
+
+## Contributing
+Contributions are welcome! If you'd like to improve the projects or add new ones, feel free to fork the repository and submit a pull request.
+
+## License
+This repository is licensed under the MIT License, so feel free to use the code for your own learning purposes.
